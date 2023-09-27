@@ -16,7 +16,7 @@ end
 
 config = {
   background_color = opt("background_color", "medium"),
-  comment_style = opt("comment_style", "italic"),
+  comment_style = opt("comment_style", "NONE"),
   keyword_style = opt("keyword_style", "italic"),
   function_style = opt("function_style", "bold"),
   string_style = opt("string_style", "nocombine"),
