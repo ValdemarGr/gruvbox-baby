@@ -35,7 +35,7 @@ function M.setup(config)
     Keyword = { fg = c.red, style = config.keyword_style },
     Exception = { fg = c.magenta },
     PreProc = { fg = c.soft_yellow },
-    Include = { fg = c.red },
+    Include = { fg = c.blue },
     Define = { fg = c.magenta },
     Title = { fg = c.foreground },
     Macro = { fg = c.magenta },
